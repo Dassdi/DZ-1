@@ -12,10 +12,9 @@ b = Int32.Parse(input_b);
 if (a>b)
 { 
 Console.WriteLine("Наибольшее число: " + a);
-Console.WriteLine("Наименьшее число: " + b);
+
 }
 else
 {
 Console.WriteLine("Наибольшее число: " + b);
-Console.WriteLine("Наименьшее число: " + a);
 }
